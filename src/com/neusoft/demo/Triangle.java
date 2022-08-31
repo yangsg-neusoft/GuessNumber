@@ -5,6 +5,7 @@ public class Triangle {
 	double a;
 	double b;
 	double c;
+	double d;
 	
 	public Triangle() {}
 	public Triangle(double a, double b, double c) {
